@@ -1,7 +1,7 @@
 title: DocKom
 email: nicolas.vargas@karisma.org.co
 description:   Comunicaciones - Fundación Karisma
-baseurl: "" 
+baseurl: /dockom 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: karisma
 github_username:  salocin-vh
