@@ -1,0 +1,7 @@
+---
+layout: page
+title: ¿DocKom?
+permalink: /about/
+---
+El proyecto **DocKom**, es una iniciativa del equipo de comunicaciones de Fundación Karisma en donde buscamos consolidar y dar soporte a una plataforma para acoger todas las guías de consultas para diferentes procesos para las personas que cumplen funciones operativas en el equipo de comunicaciones.
+
