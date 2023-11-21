@@ -44,14 +44,14 @@ La accesibilidad web comienza con una buena estructura HTML5, para ello debemos 
 
 La W3C tiene una magnífica herramienta para hacer un test de este criterio: [validator](https://validator.w3.org/)
 
-![Captura de pantalla de un ítem del diagnóstico con el uso de la herramienta](/assets/gitbook/images/Captura-de-pantalla-de-una-de-las-recomendaciones-a-nivel-HTML-de-la-herramienta.webp)
+![Captura de pantalla de un ítem del diagnóstico con el uso de la herramienta](assets/gitbook/images/Captura-de-pantalla-de-una-de-las-recomendaciones-a-nivel-HTML-de-la-herramienta.webp)
 > Captura de pantalla de un ítem del diagnóstico con el uso de la herramienta.
 
 Esta estructura nos ayuda a que el sitio web cuente con una buena navegabilidad, algo muy importante para dos criterios de accesibilidad universal. Uno es que el sitio web pueda ser comprendido y el otro es que sea operable, tanto con el mouse como con el teclado en este caso se benefician las personas que interactúan con los sitios web usando el teclado para navegar por el sitio.
 
 ### **1.3 Menú de navegación**
 
-![Captura de pantalla de la interacción con teclado en una barra de navegación.](/assets/gitbook/images/Captura_pantalla_menú_navegación_página_web_karisma.webp)
+![Captura de pantalla de la interacción con teclado en una barra de navegación.](assets/gitbook/images/Captura_pantalla_menú_navegación_página_web_karisma.webp)
 > Captura de pantalla de la interacción con teclado en una barra de navegación.
 
 Tomando como referencia la W3C el uso de las barras de navegación o menús, se da principalmente para facilitar la navegación de los sitios web, este es un componente crítico para la operatividad del sitio.
@@ -64,11 +64,11 @@ El siguiente ejemplo de nuestro sitio web, podemos ver el cambio de color del fo
 
 Así luce el botón únete a nuestro Boletín sin el efecto hover:
 
-![Así luce el botón únete a nuestro Boletín sin el efecto hover](/assets/gitbook/images/Así-luce-el-botón-únete-a-nuestro-Boletín-sin-el-efecto-hover.webp)
+![Así luce el botón únete a nuestro Boletín sin el efecto hover](assets/gitbook/images/Así-luce-el-botón-únete-a-nuestro-Boletín-sin-el-efecto-hover.webp)
 > Así luce el botón únete a nuestro Boletín sin el efecto hover.
 
 Así luce el botón únete a nuestro Boletín con el efecto hover:
-![Así luce el botón únete a nuestro Boletín con el efecto hover](/assets/gitbook/images/Así-luce-el-botón-únete-a-nuestro-Boletín-con-el-efecto-hover.webp)
+![Así luce el botón únete a nuestro Boletín con el efecto hover](assets/gitbook/images/Así-luce-el-botón-únete-a-nuestro-Boletín-con-el-efecto-hover.webp)
 > Así luce el botón únete a nuestro Boletín con el efecto hover.
 
 ### **1.5 Carruseles en el home y entradas**
@@ -83,7 +83,7 @@ Los carruseles permiten a los sitios web mostrar una colección de elementos en 
 
 **Estilo:** Asegurarse de que el diseño sea legible y utilizable para todos y todas. para más información puedes consultar: [Más autonomía digital y menos barreras: Guía básica de accesibilidad web y de contenidos en redes sociales.](https://web.karisma.org.co/mas-autonomia-digital-menos-barreras-guia-bpasica-de-accesibilidad-web-y-redes-sociales/)
 
-![Captura de pantalla de un carrusel que cumple con estos criterios.](/assets/gitbook/images/Captura-de-pantalla-de-un-carrusel-que-cumple-con-estos-criterios,-Aquí-se-puede-ver.webp)
+![Captura de pantalla de un carrusel que cumple con estos criterios.](assets/gitbook/images/Captura-de-pantalla-de-un-carrusel-que-cumple-con-estos-criterios,-Aquí-se-puede-ver.webp)
 > [Aquí se puede ver el ejemplo con su funcionalidad.](https://www.w3.org/WAI/tutorials/carousels/working-example/)
 
 Algunos de los criterios de accesibilidad que podemos revisar son:
@@ -98,10 +98,10 @@ Algunos de los criterios de accesibilidad que podemos revisar son:
 
 Los enlaces siempre deben ir subrayados puesto que permite a personas que perciben el color de una manera diferente puedan identificar el enlace sin necesidad de referenciarse únicamente del color del texto. El texto descriptivo de los enlaces debe siempre indicar lo que se espera que suceda después de interactuar con él.
 
-![Ejemplo de los enlaces dentro del carrusel de la página principal de Fundación Karisma](/assets/gitbook/images/Ejemplo-de-los-enlaces-dentro-del-carrusel-de-la-página-principal-de-Fundación-Karisma.webp)
+![Ejemplo de los enlaces dentro del carrusel de la página principal de Fundación Karisma](assets/gitbook/images/Ejemplo-de-los-enlaces-dentro-del-carrusel-de-la-página-principal-de-Fundación-Karisma.webp)
 > Ejemplo de los enlaces dentro del carrusel de la página principal de Fundación Karisma
 
-![Ejemplo de los enlaces dentro de la sección ‘Aprende algo nuevo’ de la página principal de Fundación Karisma](/assets/gitbook/images/Ejemplo-de-los-enlaces-dentro-de-la-sección-‘Aprende-algo-nuevo’-de-la-página-principal-de.webp)
+![Ejemplo de los enlaces dentro de la sección ‘Aprende algo nuevo’ de la página principal de Fundación Karisma](assets/gitbook/images/Ejemplo-de-los-enlaces-dentro-de-la-sección-‘Aprende-algo-nuevo’-de-la-página-principal-de.webp)
 > Ejemplo de los enlaces dentro de la sección ‘Aprende algo nuevo’ de la página principal de Fundación Karisma.
 
 Al igual que para los enlaces de redes sociales, para los enlaces que van dentro  de las entradas web o documentos. se deben responder las siguientes preguntas:
@@ -113,12 +113,12 @@ Se aconseja no utilizar palabras como por ejemplo ‘Clic aquí’ o ‘Ver más
 
 **Ejemplo de una entrada web de K con enlaces:**
 
-![Captura de pantalla de los enlaces en una entrada web.](/assets/gitbook/images/Captura-de-pantalla-los-enlaces-en-una-entrada-web.webp)
+![Captura de pantalla de los enlaces en una entrada web.](assets/gitbook/images/Captura-de-pantalla-los-enlaces-en-una-entrada-web.webp)
 > Captura de pantalla de los enlaces en una entrada web.
 
 **Ejemplo de un PDF con enlaces:**
 
-![Captura de pantalla los enlaces en el cuerpo de un documento PDF](/assets/gitbook/images/Captura-de-pantalla-los-enlaces-en-el-cuerpo-de-un-documento-PDF.webp)
+![Captura de pantalla los enlaces en el cuerpo de un documento PDF](assets/gitbook/images/Captura-de-pantalla-los-enlaces-en-el-cuerpo-de-un-documento-PDF.webp)
 > Captura de pantalla los enlaces en el cuerpo de un documento PDF
 
 ### **1.6 Texto alternativo en WordPress**
@@ -126,7 +126,7 @@ Se aconseja no utilizar palabras como por ejemplo ‘Clic aquí’ o ‘Ver más
 Al subir una imagen desde WordPress en el tablero de configuración el que está ubicado al lado derecho de la página para los casos de visualización de escritorio, en el apartado de bloque al seleccionar la imagen nos va a desplegar varias opciones, en este caso nos fijamos en la que dice texto alternativo. 
 El texto alternativo describe el propósito que tiene la imagen, en el caso en que sea plenamente decorativa este campo se deja vacío.
 
-![Captura de pantalla con un ejemplo de texto alternativo en una imagen de WordPress](/assets/gitbook/images/Captura-de-pantalla-con-un-ejemplo-de-texto-alternativo-en-una-imagen-de-WordPress.webp)
+![Captura de pantalla con un ejemplo de texto alternativo en una imagen de WordPress](assets/gitbook/images/Captura-de-pantalla-con-un-ejemplo-de-texto-alternativo-en-una-imagen-de-WordPress.webp)
 > Captura de pantalla con un ejemplo de texto alternativo en una imagen de WordPress.
 
 ## **2 Criterios WCAG.**
@@ -281,7 +281,7 @@ La accesibilidad web comienza con una buena estructura HTML5, para ello debemos 
 
 La W3C tiene una magnífica herramienta para hacer un test de este criterio: [validator](https://validator.w3.org/)
 
-![Captura de pantalla de un ítem del diagnóstico con el uso de la herramienta](/assets/gitbook/images/Captura-de-pantalla-de-una-de-las-recomendaciones-a-nivel-HTML-de-la-herramienta.webp)
+![Captura de pantalla de un ítem del diagnóstico con el uso de la herramienta](assets/gitbook/images/Captura-de-pantalla-de-una-de-las-recomendaciones-a-nivel-HTML-de-la-herramienta.webp)
 > Captura de pantalla de un ítem del diagnóstico con el uso de la herramienta.
 
 Esta estructura nos ayuda a que el sitio web cuente con una buena navegabilidad, algo muy importante para dos criterios de accesibilidad universal. Uno es que el sitio web pueda ser comprendido y el otro es que sea operable, tanto con el mouse como con el teclado en este caso se benefician las personas que interactúan con los sitios web usando el teclado para navegar por el sitio.
@@ -301,11 +301,11 @@ El siguiente ejemplo de nuestro sitio web, podemos ver el cambio de color del fo
 
 Así luce el botón únete a nuestro Boletín sin el efecto hover:
 
-![Así luce el botón únete a nuestro Boletín sin el efecto hover](/assets/gitbook/images/Así-luce-el-botón-únete-a-nuestro-Boletín-sin-el-efecto-hover.webp)
+![Así luce el botón únete a nuestro Boletín sin el efecto hover](assets/gitbook/images/Así-luce-el-botón-únete-a-nuestro-Boletín-sin-el-efecto-hover.webp)
 > Así luce el botón únete a nuestro Boletín sin el efecto hover.
 
 Así luce el botón únete a nuestro Boletín con el efecto hover:
-![Así luce el botón únete a nuestro Boletín con el efecto hover](/assets/gitbook/images/Así-luce-el-botón-únete-a-nuestro-Boletín-con-el-efecto-hover.webp)
+![Así luce el botón únete a nuestro Boletín con el efecto hover](assets/gitbook/images/Así-luce-el-botón-únete-a-nuestro-Boletín-con-el-efecto-hover.webp)
 > Así luce el botón únete a nuestro Boletín con el efecto hover.
 
 ### **1.5 Carruseles en el home y entradas**
@@ -320,7 +320,7 @@ Los carruseles permiten a los sitios web mostrar una colección de elementos en 
 
 **Estilo:** Asegurarse de que el diseño sea legible y utilizable para todos y todas. para más información puedes consultar: [Más autonomía digital y menos barreras: Guía básica de accesibilidad web y de contenidos en redes sociales.](https://web.karisma.org.co/mas-autonomia-digital-menos-barreras-guia-bpasica-de-accesibilidad-web-y-redes-sociales/)
 
-![Captura de pantalla de un carrusel que cumple con estos criterios.](/assets/gitbook/images/Captura-de-pantalla-de-un-carrusel-que-cumple-con-estos-criterios,-Aquí-se-puede-ver.webp)
+![Captura de pantalla de un carrusel que cumple con estos criterios.](assets/gitbook/images/Captura-de-pantalla-de-un-carrusel-que-cumple-con-estos-criterios,-Aquí-se-puede-ver.webp)
 > [Aquí se puede ver el ejemplo con su funcionalidad.](https://www.w3.org/WAI/tutorials/carousels/working-example/)
 
 Algunos de los criterios de accesibilidad que podemos revisar son:
@@ -335,10 +335,10 @@ Algunos de los criterios de accesibilidad que podemos revisar son:
 
 Los enlaces siempre deben ir subrayados puesto que permite a personas que perciben el color de una manera diferente puedan identificar el enlace sin necesidad de referenciarse únicamente del color del texto. El texto descriptivo de los enlaces debe siempre indicar lo que se espera que suceda después de interactuar con él.
 
-![Ejemplo de los enlaces dentro del carrusel de la página principal de Fundación Karisma](/assets/gitbook/images/Ejemplo-de-los-enlaces-dentro-del-carrusel-de-la-página-principal-de-Fundación-Karisma.webp)
+![Ejemplo de los enlaces dentro del carrusel de la página principal de Fundación Karisma](assets/gitbook/images/Ejemplo-de-los-enlaces-dentro-del-carrusel-de-la-página-principal-de-Fundación-Karisma.webp)
 > Ejemplo de los enlaces dentro del carrusel de la página principal de Fundación Karisma
 
-![Ejemplo de los enlaces dentro de la sección ‘Aprende algo nuevo’ de la página principal de Fundación Karisma](/assets/gitbook/images/Ejemplo-de-los-enlaces-dentro-de-la-sección-‘Aprende-algo-nuevo’-de-la-página-principal-de.webp)
+![Ejemplo de los enlaces dentro de la sección ‘Aprende algo nuevo’ de la página principal de Fundación Karisma](assets/gitbook/images/Ejemplo-de-los-enlaces-dentro-de-la-sección-‘Aprende-algo-nuevo’-de-la-página-principal-de.webp)
 > Ejemplo de los enlaces dentro de la sección ‘Aprende algo nuevo’ de la página principal de Fundación Karisma.
 
 Al igual que para los enlaces de redes sociales, para los enlaces que van dentro  de las entradas web o documentos. se deben responder las siguientes preguntas:
@@ -350,12 +350,12 @@ Se aconseja no utilizar palabras como por ejemplo ‘Clic aquí’ o ‘Ver más
 
 **Ejemplo de una entrada web de K con enlaces:**
 
-![Captura de pantalla de los enlaces en una entrada web.](/assets/gitbook/images/Captura-de-pantalla-los-enlaces-en-una-entrada-web.webp)
+![Captura de pantalla de los enlaces en una entrada web.](assets/gitbook/images/Captura-de-pantalla-los-enlaces-en-una-entrada-web.webp)
 > Captura de pantalla de los enlaces en una entrada web.
 
 **Ejemplo de un PDF con enlaces:**
 
-![Captura de pantalla los enlaces en el cuerpo de un documento PDF](/assets/gitbook/images/Captura-de-pantalla-los-enlaces-en-el-cuerpo-de-un-documento-PDF.webp)
+![Captura de pantalla los enlaces en el cuerpo de un documento PDF](assets/gitbook/images/Captura-de-pantalla-los-enlaces-en-el-cuerpo-de-un-documento-PDF.webp)
 > Captura de pantalla los enlaces en el cuerpo de un documento PDF
 
 ### **1.6 Texto alternativo en WordPress**
@@ -363,7 +363,7 @@ Se aconseja no utilizar palabras como por ejemplo ‘Clic aquí’ o ‘Ver más
 Al subir una imagen desde WordPress en el tablero de configuración el que está ubicado al lado derecho de la página para los casos de visualización de escritorio, en el apartado de bloque al seleccionar la imagen nos va a desplegar varias opciones, en este caso nos fijamos en la que dice texto alternativo. 
 El texto alternativo describe el propósito que tiene la imagen, en el caso en que sea plenamente decorativa este campo se deja vacío.
 
-![Captura de pantalla con un ejemplo de texto alternativo en una imagen de WordPress](/assets/gitbook/images/Captura-de-pantalla-con-un-ejemplo-de-texto-alternativo-en-una-imagen-de-WordPress.webp)
+![Captura de pantalla con un ejemplo de texto alternativo en una imagen de WordPress](assets/gitbook/images/Captura-de-pantalla-con-un-ejemplo-de-texto-alternativo-en-una-imagen-de-WordPress.webp)
 > Captura de pantalla con un ejemplo de texto alternativo en una imagen de WordPress.
 
 ## **2 Criterios WCAG.**
